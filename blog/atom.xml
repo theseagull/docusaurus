@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theseagull.github.io/docusaurus/blog</id>
-    <title>My first docusaurus test via gh pages - it's awesome and quick Blog</title>
+    <title>My first docusaurus test via gh pages - it's super easy Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theseagull.github.io/docusaurus/blog"/>
-    <subtitle>My first docusaurus test via gh pages - it's awesome and quick Blog</subtitle>
+    <subtitle>My first docusaurus test via gh pages - it's super easy Blog</subtitle>
     <icon>https://theseagull.github.io/docusaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
